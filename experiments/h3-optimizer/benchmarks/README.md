@@ -8,16 +8,23 @@ Maintainer-supplied operational results; no new run was performed for this updat
 
 | Workflow condition | Value |
 | --- | --- |
+| Workflow | MiniMax H3 Reference-to-Video |
 | Resolution | 544 × 800 |
-| Duration / fps / frames | 8 seconds / 24 fps / 192 frames |
+| Duration / fps / frames | 8.0 seconds / 24 fps / 192 frames |
 | Sampling steps | 8 |
 | Sampler | `res_multistep` |
 | H3 Quality Sigma Controller: steps | 8 |
 | H3 Quality Sigma Controller: profile | `turbo_balanced` |
 | H3 Quality Sigma Controller: strength | 1.00 |
 | H3 Quality Sigma Controller: alpha / beta | 0.60 / 0.60 |
+| Model | `minimax_h3_ref2va_pruned_int8_convrot.safetensors` |
+| VAE | `minimax_h3_video_vae_int8_convrot.safetensors` |
+| CLIP | `qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors` |
+| LoRA | `minimax_h3_turbo_v4_step600_ema.safetensors` |
+| LoRA strength | 0.7 |
+| Adaptive Optimizer | `quality` preset |
 
-The sigma profile does not imply an Optimizer preset, and its strength is not a LoRA strength. Model/VAE/LoRA hashes and other unspecified settings must not be borrowed from historical runs.
+Sigma Controller strength 1.0 and LoRA strength 0.7 are separate settings. These current model/VAE/CLIP/LoRA and preset conditions must not be applied to historical QUALITY/FAST or other past runs. Artifact hashes and other unspecified settings must not be borrowed from historical runs.
 
 | Sampling measurement | Seconds |
 | --- | ---: |
@@ -28,12 +35,12 @@ The sigma profile does not imply an Optimizer preset, and its strength is not a 
 
 The reported average is retained as supplied; the lossless comparison below records the baseline at higher precision (132.8016 s). Do not recalculate it from rounded run displays.
 
-| VAE decode, current operational conditions | Average seconds | Decision |
-| --- | ---: | --- |
-| Standard H3 VAE | 17.95 | Retained reference |
-| TensorRT H3 VAE | 20.01 | Rejected: about 11% slower |
+| VAE decode, current operational conditions | Warm-up s | Run 1 s | Run 2 s | Average s | Decision |
+| --- | ---: | ---: | ---: | ---: | --- |
+| Standard H3 VAE | 18.79 | 17.92 | 17.99 | 17.95 | Continue using Standard H3 VAE |
+| TensorRT H3 VAE | 32.64 | 20.02 | 20.00 | 20.01 | Rejected for operational use: about 11% slower; retained for validation |
 
-Standard / TensorRT = **0.90×** (ratio of durations). Sampling and VAE times are separate measurements; no combined E2E duration is asserted. VAE repetition count, warmup protocol, and output-quality comparison were not supplied in S6.
+Both VAEs decode the same latent, shape `[1, 24, 57, 50, 34]`, with one warm-up followed by two measured runs. Sampling time is excluded. Standard / TensorRT = **0.90×** (ratio of durations); TensorRT is about 11% slower under these operational conditions. Sampling and VAE times are separate measurements; no combined E2E duration is asserted. Output-quality comparison remains unverified in the supplied record.
 
 ### Lossless rejected experiments (S6)
 
