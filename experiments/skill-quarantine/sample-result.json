@@ -1,0 +1,44 @@
+{
+  "target": "C:\\quarantine\\example-skill",
+  "safety_verdict": "PASS",
+  "compatibility_verdict": "HOLD",
+  "overall_verdict": "HOLD",
+  "checks": {
+    "prompt_injection": {
+      "verdict": "PASS",
+      "evidence": [
+        "No instruction attempts to change the inspector's authority or output contract."
+      ]
+    },
+    "dangerous_execution": {
+      "verdict": "PASS",
+      "evidence": [
+        "The package contains documentation only and no executable scripts."
+      ]
+    },
+    "external_communication": {
+      "verdict": "PASS",
+      "evidence": [
+        "No network services, downloads, telemetry, or credential requirements are declared."
+      ]
+    },
+    "dependencies": {
+      "verdict": "HOLD",
+      "evidence": [
+        "A required sibling skill is named but was not included in the inspected package."
+      ]
+    },
+    "missing_files": {
+      "verdict": "PASS",
+      "evidence": [
+        "All directly referenced local files are present and readable."
+      ]
+    }
+  },
+  "files_inspected": [
+    "C:\\quarantine\\example-skill\\SKILL.md",
+    "C:\\quarantine\\example-skill\\reference.md"
+  ],
+  "files_unreadable": [],
+  "reason": "The package is safe to inspect and activate, but its declared sibling dependency must be installed or removed before it can work as described."
+}

@@ -24,6 +24,12 @@ and validates what actually happens.
 
 - `experiments/` — focused experiment notes, reproduction steps, and supporting material.
 
+## Current experiments
+
+- [`skill-quarantine`](experiments/skill-quarantine/) — research prototype for inspecting untrusted agent skills without executing them.
+- [`h3-optimizer`](experiments/h3-optimizer/) — MiniMax H3 optimizer and benchmark notes.
+- [`zonos2-avx512`](experiments/zonos2-avx512/) — Zonos2 AVX-512 compatibility investigation.
+
 ## Licensing
 
 A repository-wide license has not yet been selected. Do not assume that one license applies to all material in this repository.
