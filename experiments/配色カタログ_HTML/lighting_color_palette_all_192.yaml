@@ -1,0 +1,3851 @@
+{
+  "schema_version": "1.0",
+  "catalog_id": "lighting_color_palette_all_192",
+  "category": "lighting",
+  "display_name": "配色カタログ｜全192種",
+  "source": "Consolidated from six PBM color palette catalogs (2026-11-18)",
+  "updated_at": "2026-11-18T11:00:00",
+  "description": "配色のみを指定する全192種類の統合カタログ。被写体・塗り・光源・背景は指定しない。",
+  "blocks": [
+    {
+      "id": "lighting_color_palette_dark_gothic_01__001",
+      "name": "ゴールド×クリムゾン",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant crimson red, secondary golden yellow, restrained jet black accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "ロイヤル",
+        "重厚",
+        "ゴシック",
+        "クリムゾン",
+        "ゴールド",
+        "漆黒"
+      ],
+      "note": "主色70%: クリムゾン #A80F2F / 副色20%: ゴールド #D5A63C / 差し色10%: 漆黒 #080910。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__002",
+      "name": "ブラック×ワインレッド",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant jet black, secondary wine red, restrained silver gray accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "ゴシック",
+        "退廃",
+        "ダーク",
+        "漆黒",
+        "ワインレッド",
+        "シルバー"
+      ],
+      "note": "主色70%: 漆黒 #080910 / 副色20%: ワインレッド #6D233D / 差し色10%: シルバー #C2C9D3。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__003",
+      "name": "ミッドナイト×琥珀",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant midnight blue, secondary amber orange, restrained plum purple accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "夜",
+        "映画的",
+        "ダーク",
+        "ミッドナイトブルー",
+        "アンバー",
+        "プラム"
+      ],
+      "note": "主色70%: ミッドナイトブルー #101A39 / 副色20%: アンバー #E68D34 / 差し色10%: プラム #5D305F。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__004",
+      "name": "モノクロ×レッド",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant black, secondary pure white, restrained vivid red accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "モノクロ",
+        "差し色",
+        "クール",
+        "黒",
+        "白",
+        "レッド"
+      ],
+      "note": "主色70%: 黒 #101017 / 副色20%: 白 #FCFCFC / 差し色10%: レッド #E5233A。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__005",
+      "name": "漆黒×バイオレット",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant jet black, secondary violet, restrained silver gray accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "魔術",
+        "ゴシック",
+        "ダーク",
+        "漆黒",
+        "バイオレット",
+        "シルバー"
+      ],
+      "note": "主色70%: 漆黒 #080910 / 副色20%: バイオレット #853BDA / 差し色10%: シルバー #C2C9D3。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__006",
+      "name": "バーガンディ×ゴールド",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant burgundy, secondary antique gold, restrained ivory accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "王宮",
+        "古典",
+        "重厚",
+        "バーガンディ",
+        "アンティークゴールド",
+        "アイボリー"
+      ],
+      "note": "主色70%: バーガンディ #4C1C34 / 副色20%: アンティークゴールド #AE9058 / 差し色10%: アイボリー #F7ECDD。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__007",
+      "name": "エッグプラント×シルバー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant eggplant purple, secondary silver gray, restrained rose pink accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "神秘",
+        "上品",
+        "ダーク",
+        "エッグプラント",
+        "シルバー",
+        "ローズ"
+      ],
+      "note": "主色70%: エッグプラント #36213B / 副色20%: シルバー #C2C9D3 / 差し色10%: ローズ #CE7F98。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__008",
+      "name": "ネイビー×深紅",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant navy blue, secondary dark red, restrained champagne beige accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "軍服",
+        "重厚",
+        "ダーク",
+        "ネイビー",
+        "ダークレッド",
+        "シャンパン"
+      ],
+      "note": "主色70%: ネイビー #14233F / 副色20%: ダークレッド #661A28 / 差し色10%: シャンパン #E6D4AD。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__009",
+      "name": "チャコール×エメラルド",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant charcoal gray, secondary emerald green, restrained silver gray accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "神秘",
+        "クール",
+        "ダーク",
+        "チャコール",
+        "エメラルド",
+        "シルバー"
+      ],
+      "note": "主色70%: チャコール #2C3039 / 副色20%: エメラルド #068B68 / 差し色10%: シルバー #C2C9D3。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__010",
+      "name": "プラム×黒×ローズ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant plum purple, secondary black, restrained dusty rose accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "ゴシック",
+        "大人",
+        "ダーク",
+        "プラム",
+        "黒",
+        "ダスティローズ"
+      ],
+      "note": "主色70%: プラム #5D305F / 副色20%: 黒 #101017 / 差し色10%: ダスティローズ #B47A8C。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__011",
+      "name": "ミッドナイト×パープル",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant midnight blue, secondary purple, restrained cool gray accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "幻想",
+        "夜",
+        "ダーク",
+        "ミッドナイトブルー",
+        "パープル",
+        "クールグレー"
+      ],
+      "note": "主色70%: ミッドナイトブルー #101A39 / 副色20%: パープル #7835B7 / 差し色10%: クールグレー #B0BCCB。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__012",
+      "name": "ワイン×アイボリー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant wine red, secondary ivory, restrained antique gold accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "優雅",
+        "ゴシック",
+        "古典",
+        "ワインレッド",
+        "アイボリー",
+        "アンティークゴールド"
+      ],
+      "note": "主色70%: ワインレッド #6D233D / 副色20%: アイボリー #F7ECDD / 差し色10%: アンティークゴールド #AE9058。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__013",
+      "name": "黒×ルビー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant black, secondary ruby red, restrained steel blue gray accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "妖艶",
+        "宝石色",
+        "ダーク",
+        "黒",
+        "ルビー",
+        "スチール"
+      ],
+      "note": "主色70%: 黒 #101017 / 副色20%: ルビー #A81D47 / 差し色10%: スチール #788FA7。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__014",
+      "name": "ダークティール×ブロンズ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant deep teal, secondary bronze brown, restrained black accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "神秘",
+        "重厚",
+        "アンティーク",
+        "ダークティール",
+        "ブロンズ",
+        "黒"
+      ],
+      "note": "主色70%: ダークティール #195157 / 副色20%: ブロンズ #9D713E / 差し色10%: 黒 #101017。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__015",
+      "name": "ネイビー×シルバー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant navy blue, secondary silver gray, restrained ice blue accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "クール",
+        "夜",
+        "ダーク",
+        "ネイビー",
+        "シルバー",
+        "アイスブルー"
+      ],
+      "note": "主色70%: ネイビー #14233F / 副色20%: シルバー #C2C9D3 / 差し色10%: アイスブルー #A6DDFC。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__016",
+      "name": "漆黒×マゼンタ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant jet black, secondary magenta, restrained charcoal gray accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "都市",
+        "サイバー",
+        "ダーク",
+        "漆黒",
+        "マゼンタ",
+        "チャコール"
+      ],
+      "note": "主色70%: 漆黒 #080910 / 副色20%: マゼンタ #F21D96 / 差し色10%: チャコール #2C3039。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__017",
+      "name": "黒×真紅×白",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant jet black, secondary crimson red, restrained pure white accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "緊張感",
+        "ゴシック",
+        "強い対比",
+        "漆黒",
+        "クリムゾン",
+        "白"
+      ],
+      "note": "主色70%: 漆黒 #080910 / 副色20%: クリムゾン #A80F2F / 差し色10%: 白 #FCFCFC。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__018",
+      "name": "エッグプラント×ゴールド",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant eggplant purple, secondary golden yellow, restrained champagne beige accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "王宮",
+        "神秘",
+        "重厚",
+        "エッグプラント",
+        "ゴールド",
+        "シャンパン"
+      ],
+      "note": "主色70%: エッグプラント #36213B / 副色20%: ゴールド #D5A63C / 差し色10%: シャンパン #E6D4AD。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__019",
+      "name": "チャコール×カッパー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant charcoal gray, secondary copper brown, restrained ivory accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "都会",
+        "レトロ",
+        "ダーク",
+        "チャコール",
+        "カッパー",
+        "アイボリー"
+      ],
+      "note": "主色70%: チャコール #2C3039 / 副色20%: カッパー #B7754B / 差し色10%: アイボリー #F7ECDD。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__020",
+      "name": "バーガンディ×ローズ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant burgundy, secondary dusty rose, restrained silver gray accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "優雅",
+        "大人",
+        "ダーク",
+        "バーガンディ",
+        "ダスティローズ",
+        "シルバー"
+      ],
+      "note": "主色70%: バーガンディ #4C1C34 / 副色20%: ダスティローズ #B47A8C / 差し色10%: シルバー #C2C9D3。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__021",
+      "name": "ダークレッド×ブロンズ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant dark red, secondary bronze brown, restrained jet black accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "重厚",
+        "歴史",
+        "ゴシック",
+        "ダークレッド",
+        "ブロンズ",
+        "漆黒"
+      ],
+      "note": "主色70%: ダークレッド #661A28 / 副色20%: ブロンズ #9D713E / 差し色10%: 漆黒 #080910。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__022",
+      "name": "フォレスト×アンティークゴールド",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant forest green, secondary antique gold, restrained black accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "古典",
+        "森",
+        "重厚",
+        "フォレストグリーン",
+        "アンティークゴールド",
+        "黒"
+      ],
+      "note": "主色70%: フォレストグリーン #1D4739 / 副色20%: アンティークゴールド #AE9058 / 差し色10%: 黒 #101017。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__023",
+      "name": "スレート×スカーレット",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant slate gray, secondary scarlet red, restrained pearl white accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "差し色",
+        "クール",
+        "ダーク",
+        "スレート",
+        "スカーレット",
+        "パールホワイト"
+      ],
+      "note": "主色70%: スレート #465468 / 副色20%: スカーレット #F32037 / 差し色10%: パールホワイト #E6E8EE。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__024",
+      "name": "深紫×ターコイズ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant eggplant purple, secondary turquoise, restrained silver gray accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "神秘",
+        "対比",
+        "ダーク",
+        "エッグプラント",
+        "ターコイズ",
+        "シルバー"
+      ],
+      "note": "主色70%: エッグプラント #36213B / 副色20%: ターコイズ #34C5C0 / 差し色10%: シルバー #C2C9D3。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__025",
+      "name": "濃紺×白金",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant midnight blue, secondary pearl white, restrained golden yellow accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "上品",
+        "静けさ",
+        "ダーク",
+        "ミッドナイトブルー",
+        "パールホワイト",
+        "ゴールド"
+      ],
+      "note": "主色70%: ミッドナイトブルー #101A39 / 副色20%: パールホワイト #E6E8EE / 差し色10%: ゴールド #D5A63C。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__026",
+      "name": "黒×エメラルド×ゴールド",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant jet black, secondary emerald green, restrained golden yellow accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "宝石色",
+        "ロイヤル",
+        "重厚",
+        "漆黒",
+        "エメラルド",
+        "ゴールド"
+      ],
+      "note": "主色70%: 漆黒 #080910 / 副色20%: エメラルド #068B68 / 差し色10%: ゴールド #D5A63C。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__027",
+      "name": "ワイン×チャコール",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant wine red, secondary charcoal gray, restrained copper brown accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "退廃",
+        "古典",
+        "ダーク",
+        "ワインレッド",
+        "チャコール",
+        "カッパー"
+      ],
+      "note": "主色70%: ワインレッド #6D233D / 副色20%: チャコール #2C3039 / 差し色10%: カッパー #B7754B。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__028",
+      "name": "青紫×黒×ライム",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant indigo, secondary black, restrained lime green accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "サイバー",
+        "毒",
+        "ダーク",
+        "インディゴ",
+        "黒",
+        "ライム"
+      ],
+      "note": "主色70%: インディゴ #312780 / 副色20%: 黒 #101017 / 差し色10%: ライム #C1F331。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__029",
+      "name": "深紅×アイボリー×黒",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant crimson red, secondary ivory, restrained jet black accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "ゴシック",
+        "クラシカル",
+        "重厚",
+        "クリムゾン",
+        "アイボリー",
+        "漆黒"
+      ],
+      "note": "主色70%: クリムゾン #A80F2F / 副色20%: アイボリー #F7ECDD / 差し色10%: 漆黒 #080910。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__030",
+      "name": "プラム×シャンパン",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant plum purple, secondary champagne beige, restrained charcoal gray accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "優雅",
+        "大人",
+        "ダーク",
+        "プラム",
+        "シャンパン",
+        "チャコール"
+      ],
+      "note": "主色70%: プラム #5D305F / 副色20%: シャンパン #E6D4AD / 差し色10%: チャコール #2C3039。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__031",
+      "name": "深緑×クリムゾン",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant pine green, secondary crimson red, restrained antique gold accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "王室",
+        "古典",
+        "ダーク",
+        "パイングリーン",
+        "クリムゾン",
+        "アンティークゴールド"
+      ],
+      "note": "主色70%: パイングリーン #183C35 / 副色20%: クリムゾン #A80F2F / 差し色10%: アンティークゴールド #AE9058。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dark_gothic_01__032",
+      "name": "ダークブルー×オレンジ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant midnight blue, secondary orange, restrained slate gray accents, deep, dark, restrained color harmony with a strong accent, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダーク・ゴシック",
+        "補色",
+        "シネマ",
+        "ダーク",
+        "ミッドナイトブルー",
+        "オレンジ",
+        "スレート"
+      ],
+      "note": "主色70%: ミッドナイトブルー #101A39 / 副色20%: オレンジ #FF8B29 / 差し色10%: スレート #465468。配色テーマ: ダーク・ゴシック。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__001",
+      "name": "ダスティコーラル×セージ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant dusty coral, secondary sage green, restrained ivory accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "ナチュラル",
+        "柔らかい",
+        "ダスティ",
+        "ダスティコーラル",
+        "セージ",
+        "アイボリー"
+      ],
+      "note": "主色70%: ダスティコーラル #D99089 / 副色20%: セージ #A5B9A1 / 差し色10%: アイボリー #F7ECDD。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__002",
+      "name": "テラコッタ×オリーブ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant terracotta, secondary olive green, restrained cream accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "アースカラー",
+        "秋",
+        "ナチュラル",
+        "テラコッタ",
+        "オリーブ",
+        "クリーム"
+      ],
+      "note": "主色70%: テラコッタ #BC7254 / 副色20%: オリーブ #717946 / 差し色10%: クリーム #FFF2CD。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__003",
+      "name": "セージ×サンド",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant sage green, secondary sand beige, restrained chocolate brown accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "自然",
+        "落ち着き",
+        "アースカラー",
+        "セージ",
+        "サンド",
+        "チョコレート"
+      ],
+      "note": "主色70%: セージ #A5B9A1 / 副色20%: サンド #D2C0A0 / 差し色10%: チョコレート #48302B。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__004",
+      "name": "スモーキーブルー×ローズ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant smoky blue, secondary dusty rose, restrained ivory accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "上品",
+        "ダスティ",
+        "ロマンティック",
+        "スモーキーブルー",
+        "ダスティローズ",
+        "アイボリー"
+      ],
+      "note": "主色70%: スモーキーブルー #6F8BA5 / 副色20%: ダスティローズ #B47A8C / 差し色10%: アイボリー #F7ECDD。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__005",
+      "name": "オリーブ×トープ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant olive green, secondary taupe, restrained cream accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "アースカラー",
+        "渋い",
+        "落ち着き",
+        "オリーブ",
+        "トープ",
+        "クリーム"
+      ],
+      "note": "主色70%: オリーブ #717946 / 副色20%: トープ #92847D / 差し色10%: クリーム #FFF2CD。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__006",
+      "name": "ココア×ブラッシュ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant cocoa brown, secondary blush pink, restrained ivory accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "温かい",
+        "大人",
+        "ダスティ",
+        "ココア",
+        "ブラッシュ",
+        "アイボリー"
+      ],
+      "note": "主色70%: ココア #795B55 / 副色20%: ブラッシュ #F5CDDA / 差し色10%: アイボリー #F7ECDD。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__007",
+      "name": "スモーキーグリーン×クレイ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant smoky green, secondary clay beige, restrained bone white accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "自然",
+        "静けさ",
+        "アースカラー",
+        "スモーキーグリーン",
+        "クレイ",
+        "ボーンホワイト"
+      ],
+      "note": "主色70%: スモーキーグリーン #8BA69A / 副色20%: クレイ #C99D85 / 差し色10%: ボーンホワイト #DDD8CA。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__008",
+      "name": "テラコッタ×スモーキーブルー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant terracotta, secondary smoky blue, restrained sand beige accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "補色",
+        "秋",
+        "ダスティ",
+        "テラコッタ",
+        "スモーキーブルー",
+        "サンド"
+      ],
+      "note": "主色70%: テラコッタ #BC7254 / 副色20%: スモーキーブルー #6F8BA5 / 差し色10%: サンド #D2C0A0。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__009",
+      "name": "マホガニー×セージ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant mahogany brown, secondary sage green, restrained ivory accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "古典",
+        "上品",
+        "ナチュラル",
+        "マホガニー",
+        "セージ",
+        "アイボリー"
+      ],
+      "note": "主色70%: マホガニー #653D38 / 副色20%: セージ #A5B9A1 / 差し色10%: アイボリー #F7ECDD。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__010",
+      "name": "カーキ×チャコール",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant khaki, secondary charcoal gray, restrained cream accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "ミリタリー",
+        "渋い",
+        "低彩度",
+        "カーキ",
+        "チャコール",
+        "クリーム"
+      ],
+      "note": "主色70%: カーキ #B7AC7B / 副色20%: チャコール #2C3039 / 差し色10%: クリーム #FFF2CD。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__011",
+      "name": "ダスティローズ×グレー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant dusty rose, secondary warm gray, restrained ivory accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "大人",
+        "柔らかい",
+        "ダスティ",
+        "ダスティローズ",
+        "ウォームグレー",
+        "アイボリー"
+      ],
+      "note": "主色70%: ダスティローズ #B47A8C / 副色20%: ウォームグレー #99918D / 差し色10%: アイボリー #F7ECDD。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__012",
+      "name": "セピア×クリーム",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant sepia brown, secondary cream, restrained antique gold accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "レトロ",
+        "古書",
+        "温かい",
+        "セピアブラウン",
+        "クリーム",
+        "アンティークゴールド"
+      ],
+      "note": "主色70%: セピアブラウン #795B42 / 副色20%: クリーム #FFF2CD / 差し色10%: アンティークゴールド #AE9058。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__013",
+      "name": "クレイ×セージ×ネイビー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant clay beige, secondary sage green, restrained navy blue accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "アースカラー",
+        "上品",
+        "落ち着き",
+        "クレイ",
+        "セージ",
+        "ネイビー"
+      ],
+      "note": "主色70%: クレイ #C99D85 / 副色20%: セージ #A5B9A1 / 差し色10%: ネイビー #14233F。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__014",
+      "name": "スモーキーピンク×ココア",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant smoky pink, secondary cocoa brown, restrained champagne beige accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "レトロ",
+        "落ち着き",
+        "ダスティ",
+        "スモーキーピンク",
+        "ココア",
+        "シャンパン"
+      ],
+      "note": "主色70%: スモーキーピンク #B88E9E / 副色20%: ココア #795B55 / 差し色10%: シャンパン #E6D4AD。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__015",
+      "name": "モスグリーン×ベージュ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant moss green, secondary beige, restrained cream accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "森林",
+        "自然",
+        "アースカラー",
+        "モスグリーン",
+        "ベージュ",
+        "クリーム"
+      ],
+      "note": "主色70%: モスグリーン #536849 / 副色20%: ベージュ #D8C7AA / 差し色10%: クリーム #FFF2CD。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__016",
+      "name": "ラスト×サンド",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant rust red, secondary sand beige, restrained charcoal gray accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "秋",
+        "古典",
+        "アースカラー",
+        "ラスト",
+        "サンド",
+        "チャコール"
+      ],
+      "note": "主色70%: ラスト #9A4E35 / 副色20%: サンド #D2C0A0 / 差し色10%: チャコール #2C3039。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__017",
+      "name": "ダークティール×トープ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant deep teal, secondary taupe, restrained ivory accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "大人",
+        "落ち着き",
+        "低彩度",
+        "ダークティール",
+        "トープ",
+        "アイボリー"
+      ],
+      "note": "主色70%: ダークティール #195157 / 副色20%: トープ #92847D / 差し色10%: アイボリー #F7ECDD。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__018",
+      "name": "ウォームグレー×ラベンダー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant warm gray, secondary lavender, restrained pearl white accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "静か",
+        "ダスティ",
+        "上品",
+        "ウォームグレー",
+        "ラベンダー",
+        "パールホワイト"
+      ],
+      "note": "主色70%: ウォームグレー #99918D / 副色20%: ラベンダー #C3A9EC / 差し色10%: パールホワイト #E6E8EE。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__019",
+      "name": "スレート×セージ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant slate gray, secondary sage green, restrained bone white accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "ナチュラル",
+        "落ち着き",
+        "低彩度",
+        "スレート",
+        "セージ",
+        "ボーンホワイト"
+      ],
+      "note": "主色70%: スレート #465468 / 副色20%: セージ #A5B9A1 / 差し色10%: ボーンホワイト #DDD8CA。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__020",
+      "name": "ローズ×オリーブ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant rose pink, secondary olive green, restrained sand beige accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "アンティーク",
+        "アースカラー",
+        "落ち着き",
+        "ローズ",
+        "オリーブ",
+        "サンド"
+      ],
+      "note": "主色70%: ローズ #CE7F98 / 副色20%: オリーブ #717946 / 差し色10%: サンド #D2C0A0。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__021",
+      "name": "ペトロール×コッパー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant petrol blue, secondary copper brown, restrained ivory accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "レトロ",
+        "深み",
+        "ダスティ",
+        "ペトロールブルー",
+        "カッパー",
+        "アイボリー"
+      ],
+      "note": "主色70%: ペトロールブルー #214A5A / 副色20%: カッパー #B7754B / 差し色10%: アイボリー #F7ECDD。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__022",
+      "name": "アプリコット×カーキ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant apricot, secondary khaki, restrained ivory accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "穏やか",
+        "秋",
+        "ナチュラル",
+        "アプリコット",
+        "カーキ",
+        "アイボリー"
+      ],
+      "note": "主色70%: アプリコット #FFB77E / 副色20%: カーキ #B7AC7B / 差し色10%: アイボリー #F7ECDD。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__023",
+      "name": "スモーキーブルー×サンド",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant smoky blue, secondary sand beige, restrained taupe accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "海辺",
+        "穏やか",
+        "ダスティ",
+        "スモーキーブルー",
+        "サンド",
+        "トープ"
+      ],
+      "note": "主色70%: スモーキーブルー #6F8BA5 / 副色20%: サンド #D2C0A0 / 差し色10%: トープ #92847D。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__024",
+      "name": "クレイ×ミスト",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant clay beige, secondary mist gray, restrained chocolate brown accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "静か",
+        "低彩度",
+        "自然",
+        "クレイ",
+        "ミストグレー",
+        "チョコレート"
+      ],
+      "note": "主色70%: クレイ #C99D85 / 副色20%: ミストグレー #C1CBCC / 差し色10%: チョコレート #48302B。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__025",
+      "name": "セージ×アイボリー×ブロンズ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant sage green, secondary ivory, restrained bronze brown accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "上品",
+        "自然",
+        "温かい",
+        "セージ",
+        "アイボリー",
+        "ブロンズ"
+      ],
+      "note": "主色70%: セージ #A5B9A1 / 副色20%: アイボリー #F7ECDD / 差し色10%: ブロンズ #9D713E。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__026",
+      "name": "バーガンディ×サンド",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant burgundy, secondary sand beige, restrained sage green accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "大人",
+        "秋",
+        "低彩度",
+        "バーガンディ",
+        "サンド",
+        "セージ"
+      ],
+      "note": "主色70%: バーガンディ #4C1C34 / 副色20%: サンド #D2C0A0 / 差し色10%: セージ #A5B9A1。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__027",
+      "name": "ベージュ×プラム",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant beige, secondary plum purple, restrained antique gold accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "古典",
+        "上品",
+        "ナチュラル",
+        "ベージュ",
+        "プラム",
+        "アンティークゴールド"
+      ],
+      "note": "主色70%: ベージュ #D8C7AA / 副色20%: プラム #5D305F / 差し色10%: アンティークゴールド #AE9058。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__028",
+      "name": "モーヴ×カーキ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant mauve, secondary khaki, restrained cream accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "アンティーク",
+        "低彩度",
+        "穏やか",
+        "モーヴ",
+        "カーキ",
+        "クリーム"
+      ],
+      "note": "主色70%: モーヴ #95758E / 副色20%: カーキ #B7AC7B / 差し色10%: クリーム #FFF2CD。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__029",
+      "name": "スモーキーグリーン×ローズ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant smoky green, secondary rose pink, restrained ivory accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "植物",
+        "優雅",
+        "ダスティ",
+        "スモーキーグリーン",
+        "ローズ",
+        "アイボリー"
+      ],
+      "note": "主色70%: スモーキーグリーン #8BA69A / 副色20%: ローズ #CE7F98 / 差し色10%: アイボリー #F7ECDD。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__030",
+      "name": "ココア×スレートブルー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant cocoa brown, secondary slate blue, restrained beige accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "レトロ",
+        "渋い",
+        "低彩度",
+        "ココア",
+        "スレートブルー",
+        "ベージュ"
+      ],
+      "note": "主色70%: ココア #795B55 / 副色20%: スレートブルー #596E9F / 差し色10%: ベージュ #D8C7AA。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__031",
+      "name": "セピア×スモーキーピンク",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant sepia brown, secondary smoky pink, restrained bone white accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "ノスタルジー",
+        "ダスティ",
+        "レトロ",
+        "セピアブラウン",
+        "スモーキーピンク",
+        "ボーンホワイト"
+      ],
+      "note": "主色70%: セピアブラウン #795B42 / 副色20%: スモーキーピンク #B88E9E / 差し色10%: ボーンホワイト #DDD8CA。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_dusty_natural_01__032",
+      "name": "チャコール×クレイ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant charcoal gray, secondary clay beige, restrained sage green accents, muted, earthy, low-saturation and balanced color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ダスティ・ナチュラル",
+        "都会",
+        "アースカラー",
+        "低彩度",
+        "チャコール",
+        "クレイ",
+        "セージ"
+      ],
+      "note": "主色70%: チャコール #2C3039 / 副色20%: クレイ #C99D85 / 差し色10%: セージ #A5B9A1。配色テーマ: ダスティ・ナチュラル。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__001",
+      "name": "キャンディパステル",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant baby pink, secondary sky blue, restrained pale yellow accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "パステル",
+        "アイドル",
+        "ポップ",
+        "ベビーピンク",
+        "スカイブルー",
+        "ペールイエロー"
+      ],
+      "note": "主色70%: ベビーピンク #FAD4EC / 副色20%: スカイブルー #66C8F4 / 差し色10%: ペールイエロー #FFF3B4。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__002",
+      "name": "ラベンダー×ミント",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant lavender, secondary mint green, restrained blush pink accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "幻想",
+        "パステル",
+        "夢",
+        "ラベンダー",
+        "ミント",
+        "ブラッシュ"
+      ],
+      "note": "主色70%: ラベンダー #C3A9EC / 副色20%: ミント #BAEEDF / 差し色10%: ブラッシュ #F5CDDA。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__003",
+      "name": "ピンク×水色",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant baby pink, secondary powder blue, restrained pure white accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "かわいい",
+        "パステル",
+        "清楚",
+        "ベビーピンク",
+        "パウダーブルー",
+        "白"
+      ],
+      "note": "主色70%: ベビーピンク #FAD4EC / 副色20%: パウダーブルー #BBD6EF / 差し色10%: 白 #FCFCFC。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__004",
+      "name": "ピーチ×ミント",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant peach, secondary mint green, restrained cream accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "春",
+        "かわいい",
+        "パステル",
+        "ピーチ",
+        "ミント",
+        "クリーム"
+      ],
+      "note": "主色70%: ピーチ #F7C6AD / 副色20%: ミント #BAEEDF / 差し色10%: クリーム #FFF2CD。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__005",
+      "name": "ミント×ラベンダー×クリーム",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant mint green, secondary lavender, restrained cream accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "幻想",
+        "爽やか",
+        "パステル",
+        "ミント",
+        "ラベンダー",
+        "クリーム"
+      ],
+      "note": "主色70%: ミント #BAEEDF / 副色20%: ラベンダー #C3A9EC / 差し色10%: クリーム #FFF2CD。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__006",
+      "name": "ライラック×ペールイエロー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant lilac, secondary pale yellow, restrained ivory accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "柔らかい",
+        "春",
+        "パステル",
+        "ライラック",
+        "ペールイエロー",
+        "アイボリー"
+      ],
+      "note": "主色70%: ライラック #D5B5EC / 副色20%: ペールイエロー #FFF3B4 / 差し色10%: アイボリー #F7ECDD。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__007",
+      "name": "スカイ×ピーチクリーム",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant sky blue, secondary peach cream, restrained pure white accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "爽やか",
+        "夏",
+        "パステル",
+        "スカイブルー",
+        "ピーチクリーム",
+        "白"
+      ],
+      "note": "主色70%: スカイブルー #66C8F4 / 副色20%: ピーチクリーム #FFE2CC / 差し色10%: 白 #FCFCFC。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__008",
+      "name": "サーモン×セージ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant salmon pink, secondary sage green, restrained ivory accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "ナチュラル",
+        "春",
+        "淡色",
+        "サーモン",
+        "セージ",
+        "アイボリー"
+      ],
+      "note": "主色70%: サーモン #F8A09B / 副色20%: セージ #A5B9A1 / 差し色10%: アイボリー #F7ECDD。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__009",
+      "name": "ブラッシュ×パウダーブルー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant blush pink, secondary powder blue, restrained cream accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "かわいい",
+        "淡色",
+        "穏やか",
+        "ブラッシュ",
+        "パウダーブルー",
+        "クリーム"
+      ],
+      "note": "主色70%: ブラッシュ #F5CDDA / 副色20%: パウダーブルー #BBD6EF / 差し色10%: クリーム #FFF2CD。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__010",
+      "name": "ミントクリーム×ピンク",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant mint cream, secondary bright pink, restrained pearl white accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "キャンディ",
+        "ポップ",
+        "淡色",
+        "ミントクリーム",
+        "ピンク",
+        "パールホワイト"
+      ],
+      "note": "主色70%: ミントクリーム #DDF8EC / 副色20%: ピンク #FF65AE / 差し色10%: パールホワイト #E6E8EE。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__011",
+      "name": "アプリコット×ラベンダー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant apricot, secondary lavender, restrained ivory accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "夢",
+        "春",
+        "かわいい",
+        "アプリコット",
+        "ラベンダー",
+        "アイボリー"
+      ],
+      "note": "主色70%: アプリコット #FFB77E / 副色20%: ラベンダー #C3A9EC / 差し色10%: アイボリー #F7ECDD。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__012",
+      "name": "ベビーピンク×クリーム",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant baby pink, secondary cream, restrained honey yellow accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "かわいい",
+        "スイート",
+        "淡色",
+        "ベビーピンク",
+        "クリーム",
+        "ハニー"
+      ],
+      "note": "主色70%: ベビーピンク #FAD4EC / 副色20%: クリーム #FFF2CD / 差し色10%: ハニー #E7B74E。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__013",
+      "name": "シーグラス×アイボリー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant sea-glass green, secondary ivory, restrained salmon pink accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "透明感",
+        "爽やか",
+        "淡色",
+        "シーグラス",
+        "アイボリー",
+        "サーモン"
+      ],
+      "note": "主色70%: シーグラス #A7D9CC / 副色20%: アイボリー #F7ECDD / 差し色10%: サーモン #F8A09B。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__014",
+      "name": "フロスト×薄藤",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant frost blue, secondary wisteria purple, restrained pearl white accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "冬",
+        "幻想",
+        "パステル",
+        "フロストブルー",
+        "藤色",
+        "パールホワイト"
+      ],
+      "note": "主色70%: フロストブルー #D0E9F5 / 副色20%: 藤色 #9C8BC4 / 差し色10%: パールホワイト #E6E8EE。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__015",
+      "name": "ピーチ×パウダーブルー×ミント",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant peach, secondary powder blue, restrained mint green accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "三色",
+        "春",
+        "パステル",
+        "ピーチ",
+        "パウダーブルー",
+        "ミント"
+      ],
+      "note": "主色70%: ピーチ #F7C6AD / 副色20%: パウダーブルー #BBD6EF / 差し色10%: ミント #BAEEDF。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__016",
+      "name": "ラベンダーミルク",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant lavender, secondary pearl white, restrained blush pink accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "ミルキー",
+        "幻想",
+        "パステル",
+        "ラベンダー",
+        "パールホワイト",
+        "ブラッシュ"
+      ],
+      "note": "主色70%: ラベンダー #C3A9EC / 副色20%: パールホワイト #E6E8EE / 差し色10%: ブラッシュ #F5CDDA。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__017",
+      "name": "パステルフルーツ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant pale yellow, secondary apricot, restrained mint green accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "フルーツ",
+        "元気",
+        "パステル",
+        "ペールイエロー",
+        "アプリコット",
+        "ミント"
+      ],
+      "note": "主色70%: ペールイエロー #FFF3B4 / 副色20%: アプリコット #FFB77E / 差し色10%: ミント #BAEEDF。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__018",
+      "name": "ペールイエロー×水色",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant pale yellow, secondary sky blue, restrained pure white accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "朝",
+        "爽やか",
+        "淡色",
+        "ペールイエロー",
+        "スカイブルー",
+        "白"
+      ],
+      "note": "主色70%: ペールイエロー #FFF3B4 / 副色20%: スカイブルー #66C8F4 / 差し色10%: 白 #FCFCFC。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__019",
+      "name": "くすみピンク×ミント",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant dusty rose, secondary mint green, restrained cream accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "上品",
+        "優しい",
+        "淡色",
+        "ダスティローズ",
+        "ミント",
+        "クリーム"
+      ],
+      "note": "主色70%: ダスティローズ #B47A8C / 副色20%: ミント #BAEEDF / 差し色10%: クリーム #FFF2CD。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__020",
+      "name": "藤色×ピーチ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant wisteria purple, secondary peach, restrained pearl white accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "幻想",
+        "ロマンティック",
+        "淡色",
+        "藤色",
+        "ピーチ",
+        "パールホワイト"
+      ],
+      "note": "主色70%: 藤色 #9C8BC4 / 副色20%: ピーチ #F7C6AD / 差し色10%: パールホワイト #E6E8EE。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__021",
+      "name": "ピンク×アイスブルー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant bright pink, secondary ice blue, restrained cream accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "透明感",
+        "アイドル",
+        "キャンディ",
+        "ピンク",
+        "アイスブルー",
+        "クリーム"
+      ],
+      "note": "主色70%: ピンク #FF65AE / 副色20%: アイスブルー #A6DDFC / 差し色10%: クリーム #FFF2CD。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__022",
+      "name": "クリーム×サーモン",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant cream, secondary salmon pink, restrained mint cream accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "柔らかい",
+        "温かい",
+        "淡色",
+        "クリーム",
+        "サーモン",
+        "ミントクリーム"
+      ],
+      "note": "主色70%: クリーム #FFF2CD / 副色20%: サーモン #F8A09B / 差し色10%: ミントクリーム #DDF8EC。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__023",
+      "name": "ミント×レモン",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant mint green, secondary lemon yellow, restrained pure white accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "ポップ",
+        "春",
+        "爽やか",
+        "ミント",
+        "レモン",
+        "白"
+      ],
+      "note": "主色70%: ミント #BAEEDF / 副色20%: レモン #FFF260 / 差し色10%: 白 #FCFCFC。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__024",
+      "name": "ライラック×スカイ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant lilac, secondary sky blue, restrained pearl white accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "夢",
+        "パステル",
+        "幻想",
+        "ライラック",
+        "スカイブルー",
+        "パールホワイト"
+      ],
+      "note": "主色70%: ライラック #D5B5EC / 副色20%: スカイブルー #66C8F4 / 差し色10%: パールホワイト #E6E8EE。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__025",
+      "name": "オパール×ブラッシュ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant opal mint, secondary blush pink, restrained champagne beige accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "宝石色",
+        "清楚",
+        "淡色",
+        "オパール",
+        "ブラッシュ",
+        "シャンパン"
+      ],
+      "note": "主色70%: オパール #CBEAE7 / 副色20%: ブラッシュ #F5CDDA / 差し色10%: シャンパン #E6D4AD。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__026",
+      "name": "ベビーピンク×ペールイエロー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant baby pink, secondary pale yellow, restrained powder blue accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "幼い",
+        "キャンディ",
+        "パステル",
+        "ベビーピンク",
+        "ペールイエロー",
+        "パウダーブルー"
+      ],
+      "note": "主色70%: ベビーピンク #FAD4EC / 副色20%: ペールイエロー #FFF3B4 / 差し色10%: パウダーブルー #BBD6EF。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__027",
+      "name": "アプリコット×ミントクリーム",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant apricot, secondary mint cream, restrained pearl white accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "春",
+        "フレッシュ",
+        "淡色",
+        "アプリコット",
+        "ミントクリーム",
+        "パールホワイト"
+      ],
+      "note": "主色70%: アプリコット #FFB77E / 副色20%: ミントクリーム #DDF8EC / 差し色10%: パールホワイト #E6E8EE。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__028",
+      "name": "シーグラス×ラベンダー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant sea-glass green, secondary lavender, restrained ivory accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "幻想",
+        "涼しげ",
+        "淡色",
+        "シーグラス",
+        "ラベンダー",
+        "アイボリー"
+      ],
+      "note": "主色70%: シーグラス #A7D9CC / 副色20%: ラベンダー #C3A9EC / 差し色10%: アイボリー #F7ECDD。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__029",
+      "name": "アイスブルー×ピーチ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant ice blue, secondary peach, restrained pure white accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "透明感",
+        "爽やか",
+        "パステル",
+        "アイスブルー",
+        "ピーチ",
+        "白"
+      ],
+      "note": "主色70%: アイスブルー #A6DDFC / 副色20%: ピーチ #F7C6AD / 差し色10%: 白 #FCFCFC。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__030",
+      "name": "クリーム×薄藤×ローズ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant cream, secondary wisteria purple, restrained rose pink accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "ロマンティック",
+        "上品",
+        "淡色",
+        "クリーム",
+        "藤色",
+        "ローズ"
+      ],
+      "note": "主色70%: クリーム #FFF2CD / 副色20%: 藤色 #9C8BC4 / 差し色10%: ローズ #CE7F98。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__031",
+      "name": "ブラッシュ×シャンパン",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant blush pink, secondary champagne beige, restrained powder blue accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "優雅",
+        "ミルキー",
+        "淡色",
+        "ブラッシュ",
+        "シャンパン",
+        "パウダーブルー"
+      ],
+      "note": "主色70%: ブラッシュ #F5CDDA / 副色20%: シャンパン #E6D4AD / 差し色10%: パウダーブルー #BBD6EF。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_pastel_candy_01__032",
+      "name": "パウダーブルー×ミント",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant powder blue, secondary mint green, restrained pale yellow accents, soft, light, gentle pastel color harmony, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "パステル・キャンディ",
+        "爽やか",
+        "清潔感",
+        "淡色",
+        "パウダーブルー",
+        "ミント",
+        "ペールイエロー"
+      ],
+      "note": "主色70%: パウダーブルー #BBD6EF / 副色20%: ミント #BAEEDF / 差し色10%: ペールイエロー #FFF3B4。配色テーマ: パステル・キャンディ。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__001",
+      "name": "エメラルド×ゴールド",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant emerald green, secondary golden yellow, restrained navy blue accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "宝石色",
+        "高貴",
+        "ロイヤル",
+        "エメラルド",
+        "ゴールド",
+        "ネイビー"
+      ],
+      "note": "主色70%: エメラルド #068B68 / 副色20%: ゴールド #D5A63C / 差し色10%: ネイビー #14233F。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__002",
+      "name": "アイスブルー×シルバー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant ice blue, secondary silver gray, restrained pure white accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "透明感",
+        "冬",
+        "清潔感",
+        "アイスブルー",
+        "シルバー",
+        "白"
+      ],
+      "note": "主色70%: アイスブルー #A6DDFC / 副色20%: シルバー #C2C9D3 / 差し色10%: 白 #FCFCFC。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__003",
+      "name": "ルビー×シャンパン",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant ruby red, secondary champagne beige, restrained ivory accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "宝石色",
+        "優雅",
+        "ロイヤル",
+        "ルビー",
+        "シャンパン",
+        "アイボリー"
+      ],
+      "note": "主色70%: ルビー #A81D47 / 副色20%: シャンパン #E6D4AD / 差し色10%: アイボリー #F7ECDD。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__004",
+      "name": "アメジスト×ゴールド",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant amethyst purple, secondary golden yellow, restrained eggplant purple accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "宝石色",
+        "神秘",
+        "ロイヤル",
+        "アメジスト",
+        "ゴールド",
+        "エッグプラント"
+      ],
+      "note": "主色70%: アメジスト #8854B0 / 副色20%: ゴールド #D5A63C / 差し色10%: エッグプラント #36213B。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__005",
+      "name": "サファイア調×シルバー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant royal blue, secondary silver gray, restrained pearl white accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "宝石色",
+        "クール",
+        "上品",
+        "ロイヤルブルー",
+        "シルバー",
+        "パールホワイト"
+      ],
+      "note": "主色70%: ロイヤルブルー #174DAE / 副色20%: シルバー #C2C9D3 / 差し色10%: パールホワイト #E6E8EE。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__006",
+      "name": "エメラルド×アイボリー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant emerald green, secondary ivory, restrained golden yellow accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "王室",
+        "爽やか",
+        "ロイヤル",
+        "エメラルド",
+        "アイボリー",
+        "ゴールド"
+      ],
+      "note": "主色70%: エメラルド #068B68 / 副色20%: アイボリー #F7ECDD / 差し色10%: ゴールド #D5A63C。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__007",
+      "name": "ラピス×ゴールド",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant lapis blue, secondary golden yellow, restrained pure white accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "宝石色",
+        "古典",
+        "上品",
+        "ラピス",
+        "ゴールド",
+        "白"
+      ],
+      "note": "主色70%: ラピス #284996 / 副色20%: ゴールド #D5A63C / 差し色10%: 白 #FCFCFC。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__008",
+      "name": "パール×ローズゴールド風",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant pearl white, secondary rose pink, restrained champagne beige accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "清楚",
+        "優雅",
+        "宝石色",
+        "パールホワイト",
+        "ローズ",
+        "シャンパン"
+      ],
+      "note": "主色70%: パールホワイト #E6E8EE / 副色20%: ローズ #CE7F98 / 差し色10%: シャンパン #E6D4AD。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__009",
+      "name": "アンティークゴールド×クリムゾン",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant antique gold, secondary crimson red, restrained jet black accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "王宮",
+        "古典",
+        "重厚",
+        "アンティークゴールド",
+        "クリムゾン",
+        "漆黒"
+      ],
+      "note": "主色70%: アンティークゴールド #AE9058 / 副色20%: クリムゾン #A80F2F / 差し色10%: 漆黒 #080910。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__010",
+      "name": "コバルト×シャンパン",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant cobalt blue, secondary champagne beige, restrained ivory accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "上品",
+        "クラシカル",
+        "ロイヤル",
+        "コバルト",
+        "シャンパン",
+        "アイボリー"
+      ],
+      "note": "主色70%: コバルト #2556D7 / 副色20%: シャンパン #E6D4AD / 差し色10%: アイボリー #F7ECDD。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__011",
+      "name": "ゴールド×ミッドナイト",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant golden yellow, secondary midnight blue, restrained pure white accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "高級",
+        "重厚",
+        "ロイヤル",
+        "ゴールド",
+        "ミッドナイトブルー",
+        "白"
+      ],
+      "note": "主色70%: ゴールド #D5A63C / 副色20%: ミッドナイトブルー #101A39 / 差し色10%: 白 #FCFCFC。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__012",
+      "name": "シルバー×バイオレット",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant silver gray, secondary violet, restrained charcoal gray accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "クール",
+        "神秘",
+        "宝石色",
+        "シルバー",
+        "バイオレット",
+        "チャコール"
+      ],
+      "note": "主色70%: シルバー #C2C9D3 / 副色20%: バイオレット #853BDA / 差し色10%: チャコール #2C3039。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__013",
+      "name": "翡翠×カッパー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant jade green, secondary copper brown, restrained bone white accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "和風",
+        "宝石色",
+        "優雅",
+        "翡翠色",
+        "カッパー",
+        "ボーンホワイト"
+      ],
+      "note": "主色70%: 翡翠色 #4BAE94 / 副色20%: カッパー #B7754B / 差し色10%: ボーンホワイト #DDD8CA。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__014",
+      "name": "ルビー×ブラック",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant ruby red, secondary jet black, restrained golden yellow accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "豪華",
+        "ゴシック",
+        "ロイヤル",
+        "ルビー",
+        "漆黒",
+        "ゴールド"
+      ],
+      "note": "主色70%: ルビー #A81D47 / 副色20%: 漆黒 #080910 / 差し色10%: ゴールド #D5A63C。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__015",
+      "name": "ロイヤルブルー×クリーム",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant royal blue, secondary cream, restrained golden yellow accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "王室",
+        "古典",
+        "上品",
+        "ロイヤルブルー",
+        "クリーム",
+        "ゴールド"
+      ],
+      "note": "主色70%: ロイヤルブルー #174DAE / 副色20%: クリーム #FFF2CD / 差し色10%: ゴールド #D5A63C。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__016",
+      "name": "アメジスト×パール",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant amethyst purple, secondary pearl white, restrained silver gray accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "神秘",
+        "清楚",
+        "宝石色",
+        "アメジスト",
+        "パールホワイト",
+        "シルバー"
+      ],
+      "note": "主色70%: アメジスト #8854B0 / 副色20%: パールホワイト #E6E8EE / 差し色10%: シルバー #C2C9D3。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__017",
+      "name": "ブロンズ×ダークティール",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant bronze brown, secondary deep teal, restrained ivory accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "クラシック",
+        "重厚",
+        "宝石色",
+        "ブロンズ",
+        "ダークティール",
+        "アイボリー"
+      ],
+      "note": "主色70%: ブロンズ #9D713E / 副色20%: ダークティール #195157 / 差し色10%: アイボリー #F7ECDD。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__018",
+      "name": "オパール×ラベンダー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant opal mint, secondary lavender, restrained silver gray accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "幻想",
+        "繊細",
+        "宝石色",
+        "オパール",
+        "ラベンダー",
+        "シルバー"
+      ],
+      "note": "主色70%: オパール #CBEAE7 / 副色20%: ラベンダー #C3A9EC / 差し色10%: シルバー #C2C9D3。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__019",
+      "name": "ゴールド×ホワイト",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant golden yellow, secondary pure white, restrained navy blue accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "上品",
+        "明るい",
+        "ロイヤル",
+        "ゴールド",
+        "白",
+        "ネイビー"
+      ],
+      "note": "主色70%: ゴールド #D5A63C / 副色20%: 白 #FCFCFC / 差し色10%: ネイビー #14233F。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__020",
+      "name": "シルバー×チャコール",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant silver gray, secondary charcoal gray, restrained ice blue accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "クール",
+        "メタリック",
+        "上品",
+        "シルバー",
+        "チャコール",
+        "アイスブルー"
+      ],
+      "note": "主色70%: シルバー #C2C9D3 / 副色20%: チャコール #2C3039 / 差し色10%: アイスブルー #A6DDFC。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__021",
+      "name": "マホガニー×ゴールド",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant mahogany brown, secondary golden yellow, restrained cream accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "古典",
+        "王宮",
+        "重厚",
+        "マホガニー",
+        "ゴールド",
+        "クリーム"
+      ],
+      "note": "主色70%: マホガニー #653D38 / 副色20%: ゴールド #D5A63C / 差し色10%: クリーム #FFF2CD。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__022",
+      "name": "翡翠×アイボリー×ローズ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant jade green, secondary ivory, restrained rose pink accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "和風",
+        "上品",
+        "宝石色",
+        "翡翠色",
+        "アイボリー",
+        "ローズ"
+      ],
+      "note": "主色70%: 翡翠色 #4BAE94 / 副色20%: アイボリー #F7ECDD / 差し色10%: ローズ #CE7F98。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__023",
+      "name": "ラピス×ルビー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant lapis blue, secondary ruby red, restrained golden yellow accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "宝石色",
+        "クラシカル",
+        "濃色",
+        "ラピス",
+        "ルビー",
+        "ゴールド"
+      ],
+      "note": "主色70%: ラピス #284996 / 副色20%: ルビー #A81D47 / 差し色10%: ゴールド #D5A63C。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__024",
+      "name": "エメラルド×シャンパン",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant emerald green, secondary champagne beige, restrained black accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "王室",
+        "高級",
+        "宝石色",
+        "エメラルド",
+        "シャンパン",
+        "黒"
+      ],
+      "note": "主色70%: エメラルド #068B68 / 副色20%: シャンパン #E6D4AD / 差し色10%: 黒 #101017。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__025",
+      "name": "アメジスト×オパール",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant amethyst purple, secondary opal mint, restrained pearl white accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "幻想",
+        "宝石色",
+        "静けさ",
+        "アメジスト",
+        "オパール",
+        "パールホワイト"
+      ],
+      "note": "主色70%: アメジスト #8854B0 / 副色20%: オパール #CBEAE7 / 差し色10%: パールホワイト #E6E8EE。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__026",
+      "name": "サファイア調×ルビー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant royal blue, secondary ruby red, restrained silver gray accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "宝石色",
+        "濃色",
+        "対比",
+        "ロイヤルブルー",
+        "ルビー",
+        "シルバー"
+      ],
+      "note": "主色70%: ロイヤルブルー #174DAE / 副色20%: ルビー #A81D47 / 差し色10%: シルバー #C2C9D3。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__027",
+      "name": "パール×ゴールド×ネイビー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant pearl white, secondary golden yellow, restrained navy blue accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "王宮",
+        "優雅",
+        "上品",
+        "パールホワイト",
+        "ゴールド",
+        "ネイビー"
+      ],
+      "note": "主色70%: パールホワイト #E6E8EE / 副色20%: ゴールド #D5A63C / 差し色10%: ネイビー #14233F。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__028",
+      "name": "クリムゾン×シルバー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant crimson red, secondary silver gray, restrained jet black accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "ゴシック",
+        "重厚",
+        "ロイヤル",
+        "クリムゾン",
+        "シルバー",
+        "漆黒"
+      ],
+      "note": "主色70%: クリムゾン #A80F2F / 副色20%: シルバー #C2C9D3 / 差し色10%: 漆黒 #080910。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__029",
+      "name": "コッパー×セージ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant copper brown, secondary sage green, restrained ivory accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "アンティーク",
+        "自然",
+        "上品",
+        "カッパー",
+        "セージ",
+        "アイボリー"
+      ],
+      "note": "主色70%: カッパー #B7754B / 副色20%: セージ #A5B9A1 / 差し色10%: アイボリー #F7ECDD。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__030",
+      "name": "ルビー×アメジスト",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant ruby red, secondary amethyst purple, restrained champagne beige accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "宝石色",
+        "優雅",
+        "ロイヤル",
+        "ルビー",
+        "アメジスト",
+        "シャンパン"
+      ],
+      "note": "主色70%: ルビー #A81D47 / 副色20%: アメジスト #8854B0 / 差し色10%: シャンパン #E6D4AD。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__031",
+      "name": "エメラルド×ラピス",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant emerald green, secondary lapis blue, restrained golden yellow accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "宝石色",
+        "豪華",
+        "ロイヤル",
+        "エメラルド",
+        "ラピス",
+        "ゴールド"
+      ],
+      "note": "主色70%: エメラルド #068B68 / 副色20%: ラピス #284996 / 差し色10%: ゴールド #D5A63C。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_royal_metallic_01__032",
+      "name": "シャンパン×ローズ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant champagne beige, secondary rose pink, restrained pearl white accents, rich jewel tones and elegant coordinated colors, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "ロイヤル・宝石色",
+        "エレガント",
+        "柔らかい",
+        "ロイヤル",
+        "シャンパン",
+        "ローズ",
+        "パールホワイト"
+      ],
+      "note": "主色70%: シャンパン #E6D4AD / 副色20%: ローズ #CE7F98 / 差し色10%: パールホワイト #E6E8EE。配色テーマ: ロイヤル・宝石色。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__001",
+      "name": "アプリコット×ティール",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant apricot, secondary teal blue, restrained plum purple accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "映画的",
+        "旅",
+        "夕暮れ",
+        "アプリコット",
+        "ティール",
+        "プラム"
+      ],
+      "note": "主色70%: アプリコット #FFB77E / 副色20%: ティール #187B83 / 差し色10%: プラム #5D305F。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__002",
+      "name": "サンセット×パープル",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant orange, secondary purple, restrained midnight blue accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "夕焼け",
+        "ドラマ",
+        "情緒",
+        "オレンジ",
+        "パープル",
+        "ミッドナイトブルー"
+      ],
+      "note": "主色70%: オレンジ #FF8B29 / 副色20%: パープル #7835B7 / 差し色10%: ミッドナイトブルー #101A39。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__003",
+      "name": "雪色×アイスブルー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant pure white, secondary ice blue, restrained silver gray accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "冬",
+        "雪",
+        "透明感",
+        "白",
+        "アイスブルー",
+        "シルバー"
+      ],
+      "note": "主色70%: 白 #FCFCFC / 副色20%: アイスブルー #A6DDFC / 差し色10%: シルバー #C2C9D3。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__004",
+      "name": "春桜×若葉",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant blush pink, secondary sage green, restrained cream accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "春",
+        "桜",
+        "自然",
+        "ブラッシュ",
+        "セージ",
+        "クリーム"
+      ],
+      "note": "主色70%: ブラッシュ #F5CDDA / 副色20%: セージ #A5B9A1 / 差し色10%: クリーム #FFF2CD。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__005",
+      "name": "夏空×レモン",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant sky blue, secondary lemon yellow, restrained pure white accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "夏",
+        "爽やか",
+        "ポップ",
+        "スカイブルー",
+        "レモン",
+        "白"
+      ],
+      "note": "主色70%: スカイブルー #66C8F4 / 副色20%: レモン #FFF260 / 差し色10%: 白 #FCFCFC。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__006",
+      "name": "秋紅葉×山吹",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant vermilion red, secondary honey yellow, restrained chocolate brown accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "秋",
+        "紅葉",
+        "温かい",
+        "朱色",
+        "ハニー",
+        "チョコレート"
+      ],
+      "note": "主色70%: 朱色 #EF4232 / 副色20%: ハニー #E7B74E / 差し色10%: チョコレート #48302B。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__007",
+      "name": "深海×アクア",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant navy blue, secondary turquoise, restrained ice blue accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "海",
+        "静けさ",
+        "クール",
+        "ネイビー",
+        "ターコイズ",
+        "アイスブルー"
+      ],
+      "note": "主色70%: ネイビー #14233F / 副色20%: ターコイズ #34C5C0 / 差し色10%: アイスブルー #A6DDFC。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__008",
+      "name": "森林×木漏れ色",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant forest green, secondary sage green, restrained honey yellow accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "森",
+        "自然",
+        "穏やか",
+        "フォレストグリーン",
+        "セージ",
+        "ハニー"
+      ],
+      "note": "主色70%: フォレストグリーン #1D4739 / 副色20%: セージ #A5B9A1 / 差し色10%: ハニー #E7B74E。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__009",
+      "name": "砂漠×夕霞",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant sand beige, secondary terracotta, restrained wisteria purple accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "砂漠",
+        "旅",
+        "情緒",
+        "サンド",
+        "テラコッタ",
+        "藤色"
+      ],
+      "note": "主色70%: サンド #D2C0A0 / 副色20%: テラコッタ #BC7254 / 差し色10%: 藤色 #9C8BC4。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__010",
+      "name": "朝靄×ピーチ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant frost blue, secondary peach, restrained cream accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "朝",
+        "柔らかい",
+        "淡色",
+        "フロストブルー",
+        "ピーチ",
+        "クリーム"
+      ],
+      "note": "主色70%: フロストブルー #D0E9F5 / 副色20%: ピーチ #F7C6AD / 差し色10%: クリーム #FFF2CD。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__011",
+      "name": "海辺×コーラル",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant marine blue, secondary coral, restrained sand beige accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "夏",
+        "海",
+        "爽やか",
+        "マリンブルー",
+        "コーラル",
+        "サンド"
+      ],
+      "note": "主色70%: マリンブルー #165D99 / 副色20%: コーラル #FF786E / 差し色10%: サンド #D2C0A0。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__012",
+      "name": "夜明け×藤色",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant wisteria purple, secondary peach cream, restrained powder blue accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "朝焼け",
+        "幻想",
+        "淡色",
+        "藤色",
+        "ピーチクリーム",
+        "パウダーブルー"
+      ],
+      "note": "主色70%: 藤色 #9C8BC4 / 副色20%: ピーチクリーム #FFE2CC / 差し色10%: パウダーブルー #BBD6EF。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__013",
+      "name": "雨夜×ネオン",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant midnight blue, secondary cyan, restrained magenta accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "雨",
+        "夜",
+        "サイバー",
+        "ミッドナイトブルー",
+        "シアン",
+        "マゼンタ"
+      ],
+      "note": "主色70%: ミッドナイトブルー #101A39 / 副色20%: シアン #0FD8EA / 差し色10%: マゼンタ #F21D96。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__014",
+      "name": "黄昏×ワイン",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant amber orange, secondary wine red, restrained plum purple accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "夕暮れ",
+        "哀愁",
+        "ドラマ",
+        "アンバー",
+        "ワインレッド",
+        "プラム"
+      ],
+      "note": "主色70%: アンバー #E68D34 / 副色20%: ワインレッド #6D233D / 差し色10%: プラム #5D305F。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__015",
+      "name": "新緑×シアン",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant emerald green, secondary cyan, restrained pure white accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "春",
+        "爽やか",
+        "鮮烈",
+        "エメラルド",
+        "シアン",
+        "白"
+      ],
+      "note": "主色70%: エメラルド #068B68 / 副色20%: シアン #0FD8EA / 差し色10%: 白 #FCFCFC。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__016",
+      "name": "紅葉×モス",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant rust red, secondary moss green, restrained cream accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "秋",
+        "自然",
+        "レトロ",
+        "ラスト",
+        "モスグリーン",
+        "クリーム"
+      ],
+      "note": "主色70%: ラスト #9A4E35 / 副色20%: モスグリーン #536849 / 差し色10%: クリーム #FFF2CD。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__017",
+      "name": "氷晶×ラベンダー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant ice blue, secondary lavender, restrained pearl white accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "雪",
+        "冬",
+        "幻想",
+        "アイスブルー",
+        "ラベンダー",
+        "パールホワイト"
+      ],
+      "note": "主色70%: アイスブルー #A6DDFC / 副色20%: ラベンダー #C3A9EC / 差し色10%: パールホワイト #E6E8EE。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__018",
+      "name": "真夏×ターコイズ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant turquoise, secondary lemon yellow, restrained coral accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "夏",
+        "海",
+        "ポップ",
+        "ターコイズ",
+        "レモン",
+        "コーラル"
+      ],
+      "note": "主色70%: ターコイズ #34C5C0 / 副色20%: レモン #FFF260 / 差し色10%: コーラル #FF786E。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__019",
+      "name": "和桜×墨色",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant dusty rose, secondary charcoal gray, restrained ivory accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "和風",
+        "桜",
+        "落ち着き",
+        "ダスティローズ",
+        "チャコール",
+        "アイボリー"
+      ],
+      "note": "主色70%: ダスティローズ #B47A8C / 副色20%: チャコール #2C3039 / 差し色10%: アイボリー #F7ECDD。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__020",
+      "name": "夕映え×コバルト",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant coral, secondary cobalt blue, restrained violet accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "夕焼け",
+        "ドラマ",
+        "鮮烈",
+        "コーラル",
+        "コバルト",
+        "バイオレット"
+      ],
+      "note": "主色70%: コーラル #FF786E / 副色20%: コバルト #2556D7 / 差し色10%: バイオレット #853BDA。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__021",
+      "name": "星夜×ゴールド",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant midnight blue, secondary golden yellow, restrained silver gray accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "夜",
+        "星",
+        "幻想",
+        "ミッドナイトブルー",
+        "ゴールド",
+        "シルバー"
+      ],
+      "note": "主色70%: ミッドナイトブルー #101A39 / 副色20%: ゴールド #D5A63C / 差し色10%: シルバー #C2C9D3。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__022",
+      "name": "淡い海霧×セージ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant mist gray, secondary sea-glass green, restrained ivory accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "海",
+        "霧",
+        "静けさ",
+        "ミストグレー",
+        "シーグラス",
+        "アイボリー"
+      ],
+      "note": "主色70%: ミストグレー #C1CBCC / 副色20%: シーグラス #A7D9CC / 差し色10%: アイボリー #F7ECDD。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__023",
+      "name": "ノスタルジック街角",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant sepia brown, secondary dusty rose, restrained cream accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "レトロ",
+        "街",
+        "懐古",
+        "セピアブラウン",
+        "ダスティローズ",
+        "クリーム"
+      ],
+      "note": "主色70%: セピアブラウン #795B42 / 副色20%: ダスティローズ #B47A8C / 差し色10%: クリーム #FFF2CD。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__024",
+      "name": "冬灯り×バーガンディ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant burgundy, secondary champagne beige, restrained frost blue accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "冬",
+        "温かい",
+        "上品",
+        "バーガンディ",
+        "シャンパン",
+        "フロストブルー"
+      ],
+      "note": "主色70%: バーガンディ #4C1C34 / 副色20%: シャンパン #E6D4AD / 差し色10%: フロストブルー #D0E9F5。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__025",
+      "name": "トロピカル×ネイビー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant orange, secondary turquoise, restrained navy blue accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "南国",
+        "夏",
+        "鮮烈",
+        "オレンジ",
+        "ターコイズ",
+        "ネイビー"
+      ],
+      "note": "主色70%: オレンジ #FF8B29 / 副色20%: ターコイズ #34C5C0 / 差し色10%: ネイビー #14233F。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__026",
+      "name": "藤花×深緑",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant wisteria purple, secondary forest green, restrained cream accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "花",
+        "和風",
+        "幻想",
+        "藤色",
+        "フォレストグリーン",
+        "クリーム"
+      ],
+      "note": "主色70%: 藤色 #9C8BC4 / 副色20%: フォレストグリーン #1D4739 / 差し色10%: クリーム #FFF2CD。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__027",
+      "name": "晴天×朱色",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant azure blue, secondary vermilion red, restrained pure white accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "夏",
+        "鮮烈",
+        "対比",
+        "アズール",
+        "朱色",
+        "白"
+      ],
+      "note": "主色70%: アズール #278BDC / 副色20%: 朱色 #EF4232 / 差し色10%: 白 #FCFCFC。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__028",
+      "name": "春草×ハニー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant mint green, secondary honey yellow, restrained ivory accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "春",
+        "自然",
+        "柔らかい",
+        "ミント",
+        "ハニー",
+        "アイボリー"
+      ],
+      "note": "主色70%: ミント #BAEEDF / 副色20%: ハニー #E7B74E / 差し色10%: アイボリー #F7ECDD。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__029",
+      "name": "晩秋×プラム",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant plum purple, secondary terracotta, restrained sand beige accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "秋",
+        "落ち着き",
+        "ドラマ",
+        "プラム",
+        "テラコッタ",
+        "サンド"
+      ],
+      "note": "主色70%: プラム #5D305F / 副色20%: テラコッタ #BC7254 / 差し色10%: サンド #D2C0A0。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__030",
+      "name": "月白×群青",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant cool white, secondary ultramarine blue, restrained silver gray accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "和色",
+        "夜",
+        "クール",
+        "クールホワイト",
+        "ウルトラマリン",
+        "シルバー"
+      ],
+      "note": "主色70%: クールホワイト #E8F3FA / 副色20%: ウルトラマリン #303BC4 / 差し色10%: シルバー #C2C9D3。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__031",
+      "name": "夏祭り×マゼンタ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant indigo, secondary magenta, restrained golden yellow accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "祭り",
+        "和風",
+        "鮮烈",
+        "インディゴ",
+        "マゼンタ",
+        "ゴールド"
+      ],
+      "note": "主色70%: インディゴ #312780 / 副色20%: マゼンタ #F21D96 / 差し色10%: ゴールド #D5A63C。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_season_cinematic_01__032",
+      "name": "オーロラ×ミント",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant indigo, secondary mint green, restrained violet accents, expressive thematic color harmony without specifying lighting or scenery, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "季節・情景",
+        "幻想",
+        "夜",
+        "宝石色",
+        "インディゴ",
+        "ミント",
+        "バイオレット"
+      ],
+      "note": "主色70%: インディゴ #312780 / 副色20%: ミント #BAEEDF / 差し色10%: バイオレット #853BDA。配色テーマ: 季節・情景。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__001",
+      "name": "CMYネオン",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant cyan, secondary magenta, restrained sunny yellow accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "ネオン",
+        "ポップ",
+        "サイバー",
+        "シアン",
+        "マゼンタ",
+        "イエロー"
+      ],
+      "note": "主色70%: シアン #0FD8EA / 副色20%: マゼンタ #F21D96 / 差し色10%: イエロー #FFD72F。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__002",
+      "name": "ネオンノワール",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant black, secondary cyan, restrained neon pink accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "ネオン",
+        "夜景",
+        "クール",
+        "黒",
+        "シアン",
+        "ネオンピンク"
+      ],
+      "note": "主色70%: 黒 #101017 / 副色20%: シアン #0FD8EA / 差し色10%: ネオンピンク #FF1B93。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__003",
+      "name": "バイオレット×エレクトリックブルー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant violet, secondary electric blue, restrained cyan accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "SF",
+        "クール",
+        "サイバー",
+        "バイオレット",
+        "エレクトリックブルー",
+        "シアン"
+      ],
+      "note": "主色70%: バイオレット #853BDA / 副色20%: エレクトリックブルー #1268FF / 差し色10%: シアン #0FD8EA。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__004",
+      "name": "ブラック×アシッドライム",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant black, secondary electric yellow, restrained neon green accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "毒",
+        "サイバー",
+        "高彩度",
+        "黒",
+        "アシッドイエロー",
+        "ネオングリーン"
+      ],
+      "note": "主色70%: 黒 #101017 / 副色20%: アシッドイエロー #F4FD00 / 差し色10%: ネオングリーン #30FD66。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__005",
+      "name": "クリムゾン×シアン",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant crimson red, secondary cyan, restrained jet black accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "対比",
+        "緊張感",
+        "サイバー",
+        "クリムゾン",
+        "シアン",
+        "漆黒"
+      ],
+      "note": "主色70%: クリムゾン #A80F2F / 副色20%: シアン #0FD8EA / 差し色10%: 漆黒 #080910。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__006",
+      "name": "ネオンピンク×コバルト",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant neon pink, secondary cobalt blue, restrained pure white accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "ポップ",
+        "都会",
+        "高彩度",
+        "ネオンピンク",
+        "コバルト",
+        "白"
+      ],
+      "note": "主色70%: ネオンピンク #FF1B93 / 副色20%: コバルト #2556D7 / 差し色10%: 白 #FCFCFC。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__007",
+      "name": "オレンジ×シアン",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant neon orange, secondary cyan, restrained navy blue accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "補色",
+        "アクション",
+        "鮮烈",
+        "ネオンオレンジ",
+        "シアン",
+        "ネイビー"
+      ],
+      "note": "主色70%: ネオンオレンジ #FF5B20 / 副色20%: シアン #0FD8EA / 差し色10%: ネイビー #14233F。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__008",
+      "name": "レッド×エレクトリックブルー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant vivid red, secondary electric blue, restrained black accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "対比",
+        "アクション",
+        "サイバー",
+        "レッド",
+        "エレクトリックブルー",
+        "黒"
+      ],
+      "note": "主色70%: レッド #E5233A / 副色20%: エレクトリックブルー #1268FF / 差し色10%: 黒 #101017。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__009",
+      "name": "エメラルド×マゼンタ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant emerald green, secondary magenta, restrained black accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "補色",
+        "ファンタジー",
+        "高彩度",
+        "エメラルド",
+        "マゼンタ",
+        "黒"
+      ],
+      "note": "主色70%: エメラルド #068B68 / 副色20%: マゼンタ #F21D96 / 差し色10%: 黒 #101017。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__010",
+      "name": "ライム×パープル",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant lime green, secondary purple, restrained jet black accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "毒",
+        "ポップ",
+        "ネオン",
+        "ライム",
+        "パープル",
+        "漆黒"
+      ],
+      "note": "主色70%: ライム #C1F331 / 副色20%: パープル #7835B7 / 差し色10%: 漆黒 #080910。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__011",
+      "name": "ホットピンク×アシッドイエロー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant hot pink, secondary electric yellow, restrained indigo accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "ポップ",
+        "蛍光",
+        "高彩度",
+        "ホットピンク",
+        "アシッドイエロー",
+        "インディゴ"
+      ],
+      "note": "主色70%: ホットピンク #FD238A / 副色20%: アシッドイエロー #F4FD00 / 差し色10%: インディゴ #312780。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__012",
+      "name": "ブルー×レモン",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant royal blue, secondary lemon yellow, restrained pure white accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "補色",
+        "ポップ",
+        "鮮烈",
+        "ロイヤルブルー",
+        "レモン",
+        "白"
+      ],
+      "note": "主色70%: ロイヤルブルー #174DAE / 副色20%: レモン #FFF260 / 差し色10%: 白 #FCFCFC。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__013",
+      "name": "スカーレット×ブラック",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant scarlet red, secondary jet black, restrained silver gray accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "ダーク",
+        "反逆",
+        "鮮烈",
+        "スカーレット",
+        "漆黒",
+        "シルバー"
+      ],
+      "note": "主色70%: スカーレット #F32037 / 副色20%: 漆黒 #080910 / 差し色10%: シルバー #C2C9D3。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__014",
+      "name": "フューシャ×ターコイズ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant fuchsia pink, secondary turquoise, restrained black accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "サイバー",
+        "ポップ",
+        "対比",
+        "フューシャ",
+        "ターコイズ",
+        "黒"
+      ],
+      "note": "主色70%: フューシャ #DE1BA8 / 副色20%: ターコイズ #34C5C0 / 差し色10%: 黒 #101017。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__015",
+      "name": "パープル×ネオングリーン",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant electric violet, secondary neon green, restrained charcoal gray accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "毒",
+        "未来",
+        "蛍光",
+        "エレクトリックバイオレット",
+        "ネオングリーン",
+        "チャコール"
+      ],
+      "note": "主色70%: エレクトリックバイオレット #8B00F9 / 副色20%: ネオングリーン #30FD66 / 差し色10%: チャコール #2C3039。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__016",
+      "name": "コバルト×オレンジ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant cobalt blue, secondary orange, restrained pure white accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "補色",
+        "スポーツ",
+        "ポップ",
+        "コバルト",
+        "オレンジ",
+        "白"
+      ],
+      "note": "主色70%: コバルト #2556D7 / 副色20%: オレンジ #FF8B29 / 差し色10%: 白 #FCFCFC。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__017",
+      "name": "トリコロール・エレクトリック",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant cyan, secondary magenta, restrained electric yellow accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "三色",
+        "サイバー",
+        "派手",
+        "シアン",
+        "マゼンタ",
+        "アシッドイエロー"
+      ],
+      "note": "主色70%: シアン #0FD8EA / 副色20%: マゼンタ #F21D96 / 差し色10%: アシッドイエロー #F4FD00。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__018",
+      "name": "レッド×ゴールド×ブラック",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant vivid red, secondary golden yellow, restrained black accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "情熱",
+        "豪華",
+        "高コントラスト",
+        "レッド",
+        "ゴールド",
+        "黒"
+      ],
+      "note": "主色70%: レッド #E5233A / 副色20%: ゴールド #D5A63C / 差し色10%: 黒 #101017。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__019",
+      "name": "ネオンオレンジ×パープル",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant neon orange, secondary purple, restrained black accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "対比",
+        "近未来",
+        "鮮烈",
+        "ネオンオレンジ",
+        "パープル",
+        "黒"
+      ],
+      "note": "主色70%: ネオンオレンジ #FF5B20 / 副色20%: パープル #7835B7 / 差し色10%: 黒 #101017。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__020",
+      "name": "シアン×ブラック×ホワイト",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant cyan, secondary black, restrained pure white accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "ミニマル",
+        "サイバー",
+        "鮮烈",
+        "シアン",
+        "黒",
+        "白"
+      ],
+      "note": "主色70%: シアン #0FD8EA / 副色20%: 黒 #101017 / 差し色10%: 白 #FCFCFC。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__021",
+      "name": "マゼンタ×チャコール",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant magenta, secondary charcoal gray, restrained cyan accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "夜景",
+        "ポップ",
+        "鮮烈",
+        "マゼンタ",
+        "チャコール",
+        "シアン"
+      ],
+      "note": "主色70%: マゼンタ #F21D96 / 副色20%: チャコール #2C3039 / 差し色10%: シアン #0FD8EA。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__022",
+      "name": "シャルトリューズ×インディゴ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant chartreuse, secondary indigo, restrained pure white accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "補色",
+        "奇抜",
+        "鮮烈",
+        "シャルトリューズ",
+        "インディゴ",
+        "白"
+      ],
+      "note": "主色70%: シャルトリューズ #CDFB43 / 副色20%: インディゴ #312780 / 差し色10%: 白 #FCFCFC。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__023",
+      "name": "バイオレット×イエロー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant violet, secondary sunny yellow, restrained jet black accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "補色",
+        "ファンタジー",
+        "派手",
+        "バイオレット",
+        "イエロー",
+        "漆黒"
+      ],
+      "note": "主色70%: バイオレット #853BDA / 副色20%: イエロー #FFD72F / 差し色10%: 漆黒 #080910。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__024",
+      "name": "シアン×スカーレット",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant cyan, secondary scarlet red, restrained pure white accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "対比",
+        "ポスター",
+        "高彩度",
+        "シアン",
+        "スカーレット",
+        "白"
+      ],
+      "note": "主色70%: シアン #0FD8EA / 副色20%: スカーレット #F32037 / 差し色10%: 白 #FCFCFC。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__025",
+      "name": "ターコイズ×ホットピンク",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant turquoise, secondary hot pink, restrained lemon yellow accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "ポップ",
+        "キャンディ",
+        "高彩度",
+        "ターコイズ",
+        "ホットピンク",
+        "レモン"
+      ],
+      "note": "主色70%: ターコイズ #34C5C0 / 副色20%: ホットピンク #FD238A / 差し色10%: レモン #FFF260。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__026",
+      "name": "アシッドイエロー×ブラック",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant electric yellow, secondary jet black, restrained cool gray accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "警告色",
+        "グラフィック",
+        "鮮烈",
+        "アシッドイエロー",
+        "漆黒",
+        "クールグレー"
+      ],
+      "note": "主色70%: アシッドイエロー #F4FD00 / 副色20%: 漆黒 #080910 / 差し色10%: クールグレー #B0BCCB。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__027",
+      "name": "エレクトリックブルー×シルバー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant electric blue, secondary silver gray, restrained black accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "未来",
+        "クール",
+        "高彩度",
+        "エレクトリックブルー",
+        "シルバー",
+        "黒"
+      ],
+      "note": "主色70%: エレクトリックブルー #1268FF / 副色20%: シルバー #C2C9D3 / 差し色10%: 黒 #101017。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__028",
+      "name": "ネオングリーン×フューシャ",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant neon green, secondary fuchsia pink, restrained navy blue accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "蛍光",
+        "奇抜",
+        "サイバー",
+        "ネオングリーン",
+        "フューシャ",
+        "ネイビー"
+      ],
+      "note": "主色70%: ネオングリーン #30FD66 / 副色20%: フューシャ #DE1BA8 / 差し色10%: ネイビー #14233F。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__029",
+      "name": "コーラル×コバルト",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant coral, secondary cobalt blue, restrained cream accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "ポップ",
+        "対比",
+        "夏",
+        "コーラル",
+        "コバルト",
+        "クリーム"
+      ],
+      "note": "主色70%: コーラル #FF786E / 副色20%: コバルト #2556D7 / 差し色10%: クリーム #FFF2CD。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__030",
+      "name": "マゼンタ×エメラルド×ゴールド",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant magenta, secondary emerald green, restrained golden yellow accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "宝石色",
+        "豪華",
+        "鮮烈",
+        "マゼンタ",
+        "エメラルド",
+        "ゴールド"
+      ],
+      "note": "主色70%: マゼンタ #F21D96 / 副色20%: エメラルド #068B68 / 差し色10%: ゴールド #D5A63C。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__031",
+      "name": "トキシックグリーン×バイオレット",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant neon green, secondary electric violet, restrained black accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "毒",
+        "奇抜",
+        "蛍光",
+        "ネオングリーン",
+        "エレクトリックバイオレット",
+        "黒"
+      ],
+      "note": "主色70%: ネオングリーン #30FD66 / 副色20%: エレクトリックバイオレット #8B00F9 / 差し色10%: 黒 #101017。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    },
+    {
+      "id": "lighting_color_palette_vivid_neon_01__032",
+      "name": "レッド×シアン×イエロー",
+      "category": "lighting",
+      "positive": "cohesive color palette, dominant vivid red, secondary cyan, restrained sunny yellow accents, vivid, saturated, high-impact color contrast, consistent color coordination across the image",
+      "negative": "",
+      "tags": [
+        "配色",
+        "鮮烈・ネオン",
+        "原色",
+        "トリコロール",
+        "ポップ",
+        "レッド",
+        "シアン",
+        "イエロー"
+      ],
+      "note": "主色70%: レッド #E5233A / 副色20%: シアン #0FD8EA / 差し色10%: イエロー #FFD72F。配色テーマ: 鮮烈・ネオン。",
+      "enabled": true,
+      "updated_at": "2026-11-18T09:34:00"
+    }
+  ]
+}
